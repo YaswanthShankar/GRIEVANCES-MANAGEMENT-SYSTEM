@@ -7,4 +7,6 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-<img src ="Images/problem_records.jpg" height = "500"  width = "350">   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;          &nbsp;&nbsp;&nbsp;&nbsp; <img src ="Images/logout.jpg" height = "500"  width = "350">           
+<img src ="Images/problem_records.jpg" height = "500"  width = "350">   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;          &nbsp;&nbsp;&nbsp;&nbsp; <img src ="Images/logout.jpg" height = "500"  width = "350">   
+
+___________________________________________________________________________________________________________________________________________________________________________________
